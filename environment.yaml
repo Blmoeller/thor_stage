@@ -1,0 +1,13 @@
+name: thor_stage
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.9
+  - pip
+  - matplotlib
+  - 
+  - pip:
+    - numpy
+    - pycodestyle
+    - ctypes

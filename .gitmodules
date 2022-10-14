@@ -1,0 +1,3 @@
+[submodule "src/thor_stage/motion"]
+	path = src/thor_stage/motion
+	url = https://github.com/Blmoeller/Motion_Control_Examples/

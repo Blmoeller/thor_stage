@@ -34,10 +34,10 @@
 ### Installation / Setup
 - Clone this repository and cd into it
     ```
-    git clone git@github.com:collin-love/ippsra.git
+    git clone git@github.com:Blmoeller/thor_stage.git
     ```
     ```
-    cd ippsra
+    cd thor_stage
     ```
 
 #### Data Installation
